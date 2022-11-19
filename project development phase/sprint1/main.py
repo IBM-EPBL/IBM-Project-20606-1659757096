@@ -5,8 +5,8 @@ from time import sleep
 import sys
 #IBM Watson Device Credentials.
 organization = "op701j"
-deviceType = "Lokesh"
-deviceId = "Lokesh89"
+deviceType = "Tamil"
+deviceId = "Tamil89"
 authMethod = "token"
 authToken = "1223334444"
 def myCommandCallback(cmd):
